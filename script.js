@@ -1,0 +1,1 @@
+document.innerHTML('<h1>HELLOOOOOO</h1>');
